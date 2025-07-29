@@ -70,9 +70,6 @@ Analyze booking, revenue, occupancy, and customer rating data to answer key busi
 
 ---
 
-
----
-
 ## 🔚 Conclusion
 
 This project allowed me to practice real-world business problem-solving using Power BI and demonstrate my analytical thinking. I worked independently to:
