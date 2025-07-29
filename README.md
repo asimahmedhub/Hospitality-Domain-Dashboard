@@ -1,78 +1,92 @@
-# Hospitality-Domain-Dashboard
-# 🏨 Hospitality Analysis Dashboard - AtliQ Grands
+# 🏨 Hospitality Domain Dashboard (Power BI Case Study)
 
-This Power BI case study focuses on helping **AtliQ Grands**, a chain of five-star hotels across India, regain its market share and boost revenue through **data-driven insights**.
-
----
-
-## 📌 Problem Statement
-
-AtliQ Grands has been losing revenue and market share in the luxury and business hotel segment due to rising competition and poor decision-making. To reverse this trend, the management decided to invest in **Business & Data Intelligence**, but lacked an internal analytics team. They hired an external service provider to analyze historical data and deliver actionable insights.
+Welcome to my data analytics case study, where I built a fully interactive Power BI dashboard to uncover performance insights for **AtliQ Grands**, a luxury hotel chain struggling with market share and revenue. This end-to-end project demonstrates my ability to identify business problems, model data, build metrics, and deliver actionable insights.
 
 ---
 
-## 🎯 Project Objective
+## 🧩 Problem Statement
 
-To analyze historical performance metrics (revenue, occupancy, cancellations, ratings, etc.) and deliver a professional **Power BI dashboard** that empowers the management team to make informed decisions.
+AtliQ Grands owns multiple five-star hotels across India and has been in the hospitality industry for over 20 years. Recently, due to aggressive strategies from competitors and internal decision-making issues, the company started losing market share and revenue in both the **luxury** and **business hotel segments**.
+
+To regain control, the Managing Director decided to invest in **Business and Data Intelligence**. However, the company lacked an in-house analytics team. As a result, the revenue management department hired an external data analyst (me) to analyze historical data and generate actionable insights.
+
+---
+
+## 🎯 Objective
+
+Analyze booking, revenue, occupancy, and customer rating data to answer key business questions:
+- What’s the total number of bookings, revenue, and occupancy rate by city?
+- Which platforms and room categories contribute most to revenue?
+- What are the cancellation trends by month, city, and status?
+- How does customer satisfaction (ratings) vary by property and platform?
+- Are weekend or weekday stays more popular?
 
 ---
 
 ## 🛠️ Tools Used
 
-- **Power BI**
-- Power Query (Data cleaning & transformation)
-- DAX (KPIs & Calculated Measures)
+| Tool           | Purpose                                 |
+|----------------|-----------------------------------------|
+| **Power BI**   | Data modeling, DAX, and dashboard design |
+| **Power Query**| Data cleaning and transformation         |
+| **Excel**      | Initial data review                      |
+| **GitHub**     | Project showcase and case study hosting  |
 
 ---
 
 ## 📊 Key Insights Uncovered
 
-- **Mumbai leads** in total revenue contribution with 0.67bn INR.
-- **Occupancy rates are highest in Delhi (60.55%)**, suggesting strong demand despite lower revenue.
-- **Weekends outperform weekdays** in occupancy across cities.
-- **Elite rooms generate the most revenue (0.56bn)** among all categories.
-- **Online platforms outperform offline**: 700M INR came from online booking platforms labeled as "Others".
-- **Cancellation rate is high at 24.83%**, mostly in Bangalore and Hyderabad.
-- **Ratings** are consistent across months (avg. ~3.62), but vary by platform and city.
+- **Mumbai leads revenue** generation (₹0.67bn) but **Delhi has the highest occupancy rate** (60.55%) and best average rating (3.78).
+- **24.83% of bookings** are canceled — a major factor hurting revenue stability.
+- **Others** is the top-performing booking platform with ₹0.70bn revenue and 55K bookings.
+- **Luxury and Elite room categories** are top contributors to revenue.
+- **Weekend stays** account for 63% of total bookings, showing a preference for leisure travel.
+- Customer satisfaction remains stable across months (~3.62 avg rating).
 
 ---
 
-## 📂 Dashboard Overview
+## 🖼️ Dashboard Snapshots
 
-### 🧩 Overall Analysis
-![Overall Analysis](./images/overall-analysis.png)
+### 🏠 Overall Analysis
+![Overall Analysis](https://github.com/asimahmedhub/Hospitality-Domain-Dashboard/blob/main/overall-analysis.png)
 
-### 📉 Booking Analysis
-![Booking Analysis](./images/booking-analysis.png)
+### 🔍 Booking Analysis
+![Booking Analysis](https://github.com/asimahmedhub/Hospitality-Domain-Dashboard/blob/main/Booking-analysis.png)
 
-### 💰 Revenue Analysis
-![Revenue Analysis](./images/revenue-analysis.png)
+### 💵 Revenue Analysis
+![Revenue Analysis](https://github.com/asimahmedhub/Hospitality-Domain-Dashboard/blob/main/Revenue-Analysis.png)
 
-### 🌟 Rating Analysis
-![Rating Analysis](./images/rating-analysis.png)
-
----
-
-## ✅ Skills Demonstrated
-
-- Data Modeling & Relationships in Power BI
-- DAX Measures & Time Intelligence (e.g., MoM%, Avg Revenue/Booking)
-- Slicers and Filter Pane Customization
-- Designing Responsive and Intuitive Reports
-- Deriving strategic insights from raw transactional data
+### ⭐ Rating Analysis
+![Rating Analysis](https://github.com/asimahmedhub/Hospitality-Domain-Dashboard/blob/main/Rating-Analysis.png)
 
 ---
 
-## 📥 Dataset
-> This project is based on a fictional dataset inspired by the Codebasics case study, but was done independently (unguided project).
+## 📁 Folder Structure
+
+📦Hospitality-Domain-Dashboard
+┣ 📊 .pbix file (Power BI dashboard)
+┣ 📈 PNGs of each dashboard page
+┣ 📄 README.md (This case study)
 
 ---
 
-## 📌 Conclusion
-
-This dashboard provides AtliQ’s management with a **data-driven lens** to understand performance by location, room category, booking source, and guest feedback — helping them realign their business strategy effectively.
 
 ---
 
-**🔗 Let’s Connect:**
-Feel free to reach out or explore more of my projects on [LinkedIn](https://www.linkedin.com/in/asimahmedio) or [GitHub](https://github.com/asimahmed-io).
+## 🔚 Conclusion
+
+This project allowed me to practice real-world business problem-solving using Power BI and demonstrate my analytical thinking. I worked independently to:
+- Clean and model data using Power Query
+- Build relationships and DAX measures
+- Design a clean, user-friendly dashboard
+- Deliver insights that directly support executive decision-making
+
+---
+
+## 👋 Let’s Connect!
+
+If you’re a recruiter or hiring manager looking for someone who can **translate data into business value**, feel free to connect:
+
+📧 [Email](mailto:asimahmedhub@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/asimahmedio/)  
+💻 [GitHub](https://github.com/asimahmedhub)
