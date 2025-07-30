@@ -1,62 +1,63 @@
 # 🏨 Hospitality Domain Dashboard (Power BI Case Study)
 
-Welcome to my data analytics case study, where I built a fully interactive Power BI dashboard to uncover performance insights for **AtliQ Grands**, a luxury hotel chain struggling with market share and revenue. This end-to-end project demonstrates my ability to identify business problems, model data, build metrics, and deliver actionable insights.
+A complete Power BI case study analyzing hotel performance for **AtliQ Grands**, a five-star hotel chain in India.  
+This project demonstrates my skills in data modeling, DAX, dashboard design, and storytelling with data.
 
 ---
 
 ## 🧩 Problem Statement
 
-AtliQ Grands owns multiple five-star hotels across India and has been in the hospitality industry for over 20 years. Recently, due to aggressive strategies from competitors and internal decision-making issues, the company started losing market share and revenue in both the **luxury** and **business hotel segments**.
+**AtliQ Grands** has been operating in the luxury and business hotel segment for over 20 years.  
+Recently, it began losing market share and revenue due to competitive pressure and poor decision-making.  
+To address this, the management decided to invest in **Business and Data Intelligence** — but lacked an internal analytics team.
 
-To regain control, the Managing Director decided to invest in **Business and Data Intelligence**. However, the company lacked an in-house analytics team. As a result, the revenue management department hired an external data analyst (me) to analyze historical data and generate actionable insights.
+As an external data analyst, I was tasked with building a dashboard using historical booking and revenue data to identify trends, challenges, and opportunities.
 
 ---
 
-## 🎯 Objective
+## 🎯 Objectives
 
-Analyze booking, revenue, occupancy, and customer rating data to answer key business questions:
-- What’s the total number of bookings, revenue, and occupancy rate by city?
-- Which platforms and room categories contribute most to revenue?
-- What are the cancellation trends by month, city, and status?
-- How does customer satisfaction (ratings) vary by property and platform?
-- Are weekend or weekday stays more popular?
+- Analyze key metrics like revenue, occupancy, cancellation rate, and ratings
+- Identify high-performing cities, platforms, and room categories
+- Track booking behavior across channels, time, and geography
+- Recommend actionable insights to improve strategy and profitability
 
 ---
 
 ## 🛠️ Tools Used
 
-| Tool           | Purpose                                 |
-|----------------|-----------------------------------------|
-| **Power BI**   | Data modeling, DAX, and dashboard design |
-| **Power Query**| Data cleaning and transformation         |
-| **Excel**      | Initial data review                      |
-| **GitHub**     | Project showcase and case study hosting  |
+| Tool           | Purpose                                  |
+|----------------|------------------------------------------|
+| **Power BI**   | Data modeling, DAX measures, visualization |
+| **Power Query**| Data cleaning and transformation          |
+| **GitHub**     | Portfolio case study presentation         |
+| **Excel**      | Initial data exploration and structure    |
 
 ---
 
-## 📊 Key Insights Uncovered
+## 📊 Key Insights
 
-- **Mumbai leads revenue** generation (₹0.67bn) but **Delhi has the highest occupancy rate** (60.55%) and best average rating (3.78).
-- **24.83% of bookings** are canceled — a major factor hurting revenue stability.
-- **Others** is the top-performing booking platform with ₹0.70bn revenue and 55K bookings.
-- **Luxury and Elite room categories** are top contributors to revenue.
-- **Weekend stays** account for 63% of total bookings, showing a preference for leisure travel.
-- Customer satisfaction remains stable across months (~3.62 avg rating).
+- 💰 **Mumbai** generated the highest revenue (₹0.67B), while **Delhi** had the best occupancy rate (60.55%) and satisfaction score (3.78).
+- ❌ **Cancellation rate** was 24.83% — signaling friction in booking platforms or policies.
+- 🌐 The “**Others**” platform accounted for the largest booking volume and revenue.
+- 🛏️ **Luxury and Elite** room categories performed best across metrics.
+- 📅 Weekend bookings dominated with a 63% share of total bookings.
+- 🌟 Average rating across cities remained steady at **3.62**, but some properties showed room for improvement.
 
 ---
 
 ## 🖼️ Dashboard Snapshots
 
-### 🏠 Overall Analysis
-![Overall Analysis](https://github.com/asimahmedhub/Hospitality-Domain-Dashboard/blob/main/overall-analysis.png)
+### 🏠 Overall Analysis  
+![Overall Analysis](https://github.com/asimahmedhub/Hospitality-Domain-Dashboard/blob/main/Overall-Analysis.png)
 
-### 🔍 Booking Analysis
-![Booking Analysis](https://github.com/asimahmedhub/Hospitality-Domain-Dashboard/blob/main/Booking-analysis.png)
+### 🔍 Booking Analysis  
+![Booking Analysis](https://github.com/asimahmedhub/Hospitality-Domain-Dashboard/blob/main/Booking-Analysis.png)
 
-### 💵 Revenue Analysis
+### 💵 Revenue Analysis  
 ![Revenue Analysis](https://github.com/asimahmedhub/Hospitality-Domain-Dashboard/blob/main/Revenue-Analysis.png)
 
-### ⭐ Rating Analysis
+### ⭐ Rating Analysis  
 ![Rating Analysis](https://github.com/asimahmedhub/Hospitality-Domain-Dashboard/blob/main/Rating-Analysis.png)
 
 ---
@@ -64,7 +65,6 @@ Analyze booking, revenue, occupancy, and customer rating data to answer key busi
 ## 📁 Folder Structure
 
 📦Hospitality-Domain-Dashboard
-
 ┣ 📊 .pbix file (Power BI dashboard)
 
 ┣ 📈 PNGs of each dashboard page
@@ -73,20 +73,20 @@ Analyze booking, revenue, occupancy, and customer rating data to answer key busi
 
 ---
 
-## 🔚 Conclusion
+## ✅ Outcome
 
-This project allowed me to practice real-world business problem-solving using Power BI and demonstrate my analytical thinking. I worked independently to:
-- Clean and model data using Power Query
-- Build relationships and DAX measures
-- Design a clean, user-friendly dashboard
-- Deliver insights that directly support executive decision-making
+This project helped AtliQ Grands:
+- Gain visibility into platform and property performance
+- Understand guest behavior by time and region
+- Identify gaps in occupancy and satisfaction
+- Make data-driven decisions for strategic turnaround
 
 ---
 
-## 👋 Let’s Connect!
+## 👋 Let’s Connect
 
-If you’re a recruiter or hiring manager looking for someone who can **translate data into business value**, feel free to connect:
+If you’re hiring or collaborating on data projects, I’d love to connect:
 
-📧 [Email](mailto:asimahmedhub@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/asimahmedio/)  
-💻 [GitHub](https://github.com/asimahmedhub)
+📧 [asimahmedhub@gmail.com](mailto:asimahmedhub@gmail.com)  
+🔗 [LinkedIn – Asim Ahmed](https://www.linkedin.com/in/asimahmedio/)  
+💻 [GitHub – asimahmedhub](https://github.com/asimahmedhub)
