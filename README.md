@@ -64,8 +64,11 @@ Analyze booking, revenue, occupancy, and customer rating data to answer key busi
 ## 📁 Folder Structure
 
 📦Hospitality-Domain-Dashboard
+
 ┣ 📊 .pbix file (Power BI dashboard)
+
 ┣ 📈 PNGs of each dashboard page
+
 ┣ 📄 README.md (This case study)
 
 ---
