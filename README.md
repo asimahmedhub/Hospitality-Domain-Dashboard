@@ -46,6 +46,13 @@ As an external data analyst, I was tasked with building a dashboard using histor
 
 ---
 
+## 🔗 Live Dashboard
+
+You can explore the interactive version of the dashboard here:  
+👉 [View on Power BI](https://app.powerbi.com/links/wdEu397MvJ?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
+
+---
+
 ## 🖼️ Dashboard Snapshots
 
 ### 🏠 Overall Analysis  
