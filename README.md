@@ -65,6 +65,7 @@ As an external data analyst, I was tasked with building a dashboard using histor
 ## 📁 Folder Structure
 
 📦Hospitality-Domain-Dashboard
+
 ┣ 📊 .pbix file (Power BI dashboard)
 
 ┣ 📈 PNGs of each dashboard page
