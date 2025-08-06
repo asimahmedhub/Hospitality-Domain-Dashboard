@@ -1,7 +1,7 @@
 # 🏨 Hospitality Domain Dashboard (Power BI Case Study)
 
 A complete Power BI case study analyzing hotel performance for **AtliQ Grands**, a five-star hotel chain in India.  
-This project demonstrates my skills in data modeling, DAX, dashboard design, and storytelling with data.
+This project showcases my expertise in Power BI — from data modeling and DAX to designing business-ready dashboards and delivering compelling insights.
 
 ---
 
