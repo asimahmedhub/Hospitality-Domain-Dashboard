@@ -26,12 +26,19 @@ As an external data analyst, I was tasked with building a dashboard using histor
 
 ## 🛠️ Tools Used
 
-| Tool           | Purpose                                  |
-|----------------|------------------------------------------|
+| Tool           | Purpose                                    |
+|----------------|--------------------------------------------|
 | **Power BI**   | Data modeling, DAX measures, visualization |
-| **Power Query**| Data cleaning and transformation          |
-| **GitHub**     | Portfolio case study presentation         |
-| **Excel**      | Initial data exploration and structure    |
+| **Power Query**| Data cleaning and transformation           |
+| **GitHub**     | Portfolio case study presentation          |
+| **Excel**      | Initial data exploration and structure     |
+
+---
+
+## 📽️ Video Walkthrough
+
+🎥 Click the link below to watch the full walkthrough of the interactive dashboard:  
+👉 [Watch on Loom](https://www.loom.com/share/a10385ff23af47f79056b2ff8bb827df?sid=ad96953a-cc12-4b86-8fa0-87c43baf5821)
 
 ---
 
@@ -71,12 +78,9 @@ You can explore the interactive version of the dashboard here:
 
 ## 📁 Folder Structure
 
-📦Hospitality-Domain-Dashboard
-
-┣ 📊 .pbix file (Power BI dashboard)
-
-┣ 📈 PNGs of each dashboard page
-
+📦 Hospitality-Domain-Dashboard  
+┣ 📊 .pbix file (Power BI dashboard)  
+┣ 📈 PNGs of each dashboard page  
 ┣ 📄 README.md (This case study)
 
 ---
